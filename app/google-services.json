@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456564955429",
+    "project_id": "introfirestore-6d9ec",
+    "storage_bucket": "introfirestore-6d9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456564955429:android:d5af7eeb20753f13abe2cc",
+        "android_client_info": {
+          "package_name": "com.example.projemanag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456564955429-ujoq14s2q2k4bdn0jm5bao6b60ij780r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXt3CWkZQYLL-qu8XwmkPRoaFQKE0bT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456564955429-ujoq14s2q2k4bdn0jm5bao6b60ij780r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
